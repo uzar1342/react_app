@@ -1,0 +1,1 @@
+export { IconPolygon } from "./IconPolygon";
